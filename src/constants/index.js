@@ -55,7 +55,8 @@ export const PROJECTS = [
     description:
       "J'ai eu l'occasion de concevoir et développer plusieurs sites web, chacun adapté aux besoins spécifiques de mes clients. Voici quelques exemples :",
     technologies: [
-      { name: "Site", link: "https://iptvmaroc24.com/" },
+      { name: "Site", link: "https://teliggit.com/" },
+      { name: "Site", link: "https://ecolefontaine.com/" },
       { name: "Site", link: "https://minocosmetics.com/" },
       { name: "Site", link: "https://particulier.mccp-coiffure-bio.ch/" },
       { name: "Site", link: "https://kacmbasketball.ma/" },
